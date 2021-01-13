@@ -1,2 +1,2 @@
-# flutter-first-app
-This is my first Flutter application
+# First Flutter APP
+Road to my first flutter application
